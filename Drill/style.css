@@ -1,0 +1,57 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: url(karinge1);
+    background-repeat: no-repeat;
+    background-size:  100%; 
+}
+#img{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 100px;
+    
+}
+header{
+    display: flex;
+}
+.choice{
+    text-decoration:none ;
+    color: grey;
+    padding-right: 50px;
+    padding-left: 50px;
+     text-align: center;
+}
+#main1{
+    border: 3px solid green;
+    border-radius: 50%;
+    width: 50px;
+    
+}
+.chat1{
+  
+    display: flex;
+}
+.christine{
+  margin-left: 10px;
+  color: white;
+}
+.chat2{
+  
+    display: flex;
+}
+.chat3{
+   
+    display: flex;
+}
+.chat4{
+   
+    display: flex;
+}
+#main2{
+    border: 3px solid lightgrey;
+    border-radius: 50%;
+    width: 50px;
+    
+}
+
+  
